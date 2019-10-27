@@ -1,4 +1,4 @@
-# ccf_bigdata
+# ccf_bigdata<img src="https://github.com/shawnco411/Data_Structure/blob/master/shawnco4111.png" width="6%" align="right">
 汽车行业用户观点主题及情感识别训练集分词程序
 ## 项目背景
 该项目为2018 CCF大数据与计算智能大赛中汽车行业用户观点主题及情感识别赛题的数据集分词程序，能够对数据集根据主题和情感进行分词，并将分词结果及其词性输出到各自的txt文件中。
