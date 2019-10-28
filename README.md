@@ -48,3 +48,7 @@ Windows 10 10.0
 [THULAC](http://thulac.thunlp.org/ "THULAC")
 
 [jieba](https://github.com/fxsjy/jieba "jieba")
+
+## 开源协议
+
+[GNU General Public License v3.0](LICENSE)
